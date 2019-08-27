@@ -26,7 +26,4 @@ Supplementary Source(s):
 
 https://www.freecodecamp.org/   - This will be where I will practice everything that I learn from the books on my list.
 
-Day1: I connected my github account to my freecodecamp account which made me lose all my JavaScript progress.
-It is not a lot (Just finished Arrays). But I will get my progress back to where it used to be without including that in my
-challenge time.
 
