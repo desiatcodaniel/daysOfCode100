@@ -12,6 +12,7 @@ I will be updating at least this README everyday until I finish the challenge or
 I will be learning git to upload and update my codes that I plan to write.
 
 Main Sources:
+
 https://eloquentjavascript.net/ - Very widely recommended whenever I search for a great JavaScript book. 
                                 - This will be where most of my exercises and projects will come from.
                                 - I plan to finish this book (First ever book I will finish)
@@ -22,6 +23,7 @@ HTML and CSS: Design and Build Websites 1st Edition - A recommended book by many
                                                     - I plan to finish this book (Second ever book I will finish)
 
 Supplementary Source(s):
+
 https://www.freecodecamp.org/   - This will be where I will practice everything that I learn from the books on my list.
 
 Day1: I connected my github account to my freecodecamp account which made me lose all my JavaScript progress.
