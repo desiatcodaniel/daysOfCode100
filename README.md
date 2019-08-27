@@ -1,5 +1,6 @@
 #100DaysOfCode
 This is my challenge to learn and code JavaScript for 100 days at least 1 hour a day.
+
 About me:
 - I took 4 Classes of C++ (Introduction up to Data Structures), 2 Classes of Java (Introduction up to OOP), 1 class of Machine Languge (Very easy topics if you've taken any CS classes already) and 1 class of Assembly Language (One of those language for me that either clicks, or don't - In my case it clicked, but not interested), and 1 online class in MySQL(Basics).
 - I have mostly learned how to code to finish my assignments and group projects to get at least Bs in all those classes. I get lazy whenever I know I'm getting an A and just stop practicing or going to class(I go back to class when I get back down to B again - Yey!).
