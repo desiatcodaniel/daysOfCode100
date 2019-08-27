@@ -8,7 +8,7 @@ About me:
 - I realized how hard real life can be when I got married 2 years ago (I don't regret marrying the best person I've ever met, and we struggle together during the hard times).
 - I am now trying to learn Front-End Web Development while working full-time.
 
-I will be updating at least dayToDay everyday until I finish the challenge or until I finish a medium sized project.
+I will be updating at least my dayToDay everyday until I finish the challenge or until I finish a medium sized project.
 I will be learning git to upload and update my codes that I plan to write.
 
 Main Sources:
