@@ -15,12 +15,12 @@ Main Sources:
 
 https://eloquentjavascript.net/ - Very widely recommended whenever I search for a great JavaScript book. 
                                 - This will be where most of my exercises and projects will come from.
-                                - I plan to finish this book (First ever book I will finish)
+                                - I plan to finish this book (Second ever book I will finish)
 
 
 HTML and CSS: Design and Build Websites 1st Edition - A recommended book by many for learning Website Design
                                                     - This will be my main source of Web Development learning after JavaScript
-                                                    - I plan to finish this book (Second ever book I will finish)
+                                                    - I plan to finish this book (First ever book I will finish)
 
 Supplementary Source(s):
 
