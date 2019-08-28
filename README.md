@@ -1,5 +1,5 @@
 #100DaysOfCode
-This is my challenge to learn and code JavaScript for 100 days at least 1 hour a day.
+This is my challenge to learn whatever I can about Front-End Web Development in 100 days at least 1 hour a day.
 
 About me:
 - I took 4 Classes of C++ (Introduction up to Data Structures), 2 Classes of Java (Introduction up to OOP), 1 class of Machine Languge (Very easy topics if you have already taken any CS classes) and 1 class of Assembly Language (One of those languages for me that either clicks, or not at all - In my case it clicked, but not interested), and 1 online class in MySQL(Basics).
