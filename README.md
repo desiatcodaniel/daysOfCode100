@@ -1,4 +1,5 @@
 #100DaysOfCode
+
 This is my challenge to learn whatever I can about Front-End Web Development in 100 days at least 1 hour a day.
 
 About me:
