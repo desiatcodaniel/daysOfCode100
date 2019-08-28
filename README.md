@@ -19,7 +19,7 @@ https://eloquentjavascript.net/ - Very widely recommended whenever I search for 
 
 
 HTML and CSS: Design and Build Websites 1st Edition - A recommended book by many for learning Website Design
-                                                    - This will be my main source of Web Development learning after JavaScript
+                                                    - This will be my main source of Web Development learning before JavaScript
                                                     - I plan to finish this book (First ever book I will finish)
 
 Supplementary Source(s):
